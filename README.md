@@ -81,8 +81,8 @@ renato.ferraz@qodeless.io
 
 <div>
   <a href="https://github.com/ferraz-qodeless">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ferraz-qodeless&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"   />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferraz-qodeless&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=ferraz-qodeless&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"   />
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferraz-qodeless&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" />
   </a>
 </div>
 
